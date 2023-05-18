@@ -1,2 +1,2 @@
 # ForestService
-I developed this page for learning HTML, CSS.
+I developed this page using HTML, CSS & Javascript.
